@@ -2,5 +2,8 @@
 	"id": "app",
 	"port": 8080,
 	"cpu": 1,
-	"memory": 1024
+	"memory": 1024,
+	"volumes": {
+		"biblivre_data": "/var/lib/postgresql/9.6/main"
+	}
 }
