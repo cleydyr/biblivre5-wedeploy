@@ -1,7 +1,0 @@
-{
-	"id": "app",
-	"port": 8080,
-	"cpu": 1,
-	"memory": 512,
-	"dependencies": ["db"]
-}
