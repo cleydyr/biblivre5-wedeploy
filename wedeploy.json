@@ -4,6 +4,6 @@
 	"cpu": 1,
 	"memory": 1024,
 	"volumes": {
-		"biblivre_data": "/var/lib/postgresql/9.6/main"
+		"dados": "/var/lib/postgresql/9.6/main:rw"
 	}
 }
